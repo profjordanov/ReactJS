@@ -5,4 +5,4 @@
 Architectural templates for SPA applications, components, routing, JSX syntax, preparing the WebPack publishing application, 
 working with queries, Promises, advanced data management and status management through the Redux library.
 
-Evry project has its own README file.
+## Evry project has its own README file.
