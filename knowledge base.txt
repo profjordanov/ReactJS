@@ -1,0 +1,11 @@
+Props
+ - Data passed from parent component
+ - Look like HTML attributes
+ - Immutable!!!!!
+
+ State
+ - Holds mutable State
+ - set via setState in class components
+ 
+ Hooks 
+- use functions for everything
