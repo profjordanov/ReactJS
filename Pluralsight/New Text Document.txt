@@ -1,0 +1,11 @@
+1) npx create-react-app starmatch
+
+2) cd starmatch
+
+3) http://localhost:3000/
+
+4) Kill process (Ctrl + C)
+
+5) yarn test
+
+6) Kill process (Ctrl + C)
